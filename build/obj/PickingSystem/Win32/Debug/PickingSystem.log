@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+c:\users\zhang\desktop\test4\pickingsystem\app.cpp(26): warning C4973: “Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set”: 标记为弃用
+  c:\users\zhang\desktop\test4\pickingsystem\app.cpp(26): note: 消息: “Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.”
+  PickingSystem.vcxproj -> C:\Users\zhang\Desktop\test4\build\bin\Win32\Debug\PickingSystem.exe
